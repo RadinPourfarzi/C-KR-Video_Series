@@ -1,0 +1,43 @@
+# Build outputs
+
+**/build/
+*.exe
+*.out
+*.o
+*.obj
+*.ilk
+*.pdb
+*.a
+*.lib
+
+
+# Video/audio production files
+
+**/video/
+*.mp4
+*.mkv
+*.mov
+*.wav
+*.mp3
+
+
+# Local editor/system files
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+
+# Recording-only files
+
+**/code/_recording-checkpoints/
+**/notes/
+**/assets/
+*.pptx
+
+
+# Temporary files
+
+*.tmp
+*.bak
