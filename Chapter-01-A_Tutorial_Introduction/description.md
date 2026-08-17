@@ -1,4 +1,4 @@
-# YouTube Description Draft — Chapter 1: A Tutorial Introduction
+# Chapter 1: A Tutorial Introduction
 
 In this video, we work through Chapter 1 of *The C Programming Language* by Kernighan and Ritchie: **A Tutorial Introduction**.
 
