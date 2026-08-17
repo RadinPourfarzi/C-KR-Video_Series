@@ -6,7 +6,7 @@ The goal of this episode is the same general goal as Chapter 1 of *The C Program
 
 ## What the viewer should understand
 
-By the end, the viewer should be capable of reading, compiling, modifying, and writing a simple C program using:
+By the end, you, the viewer, should be capable of reading, compiling, modifying, and writing a simple C program using:
 
 - source files, compilation, and executables;
 - `main`, `printf`, and basic output;
@@ -18,16 +18,11 @@ By the end, the viewer should be capable of reading, compiling, modifying, and w
 ## Folder structure
 
 ```text
-assets/                 Diagrams, screenshots, and thumbnail material
 code/                   Public example and assignment code
-code/_recording-checkpoints/
-                        Private/recording backup versions, including K&R-style versions
-notes/                  Planning, script, checklists, and rehearsal notes
-slides/                 Presentation source and exported PDF
-video/                  Raw, audio, and final video files; usually not committed to GitHub
+slides/                 exported PDF
 ```
 
-## Main on-camera code
+## Main Video code
 
 The video focuses on these files:
 
@@ -69,14 +64,3 @@ On Windows, the executable may appear as `hello_world.exe`.
 2. Modify a character-input program to count blanks, tabs, lines, or a chosen character.
 3. Reconstruct `word_count.c` from the idea of tracking whether the program is inside or outside a word.
 4. Study or recreate `longest_line.c` as the harder Chapter 1 assignment.
-
-## Notes for GitHub
-
-Do commit:
-
-- `code/`
-- `slides/Chapter 01-Presentation.pdf`
-- `description.md`
-- selected notes that are useful to viewers
-
-Do not commit large raw recordings, final video exports, or generated executables.
